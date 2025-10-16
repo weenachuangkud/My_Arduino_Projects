@@ -1,5 +1,5 @@
 # My Arduino Projects
-All Projects I've made for learning and practice, studying
+All little Projects I've made for learning and practice, studying
 ---
 ## About
 
