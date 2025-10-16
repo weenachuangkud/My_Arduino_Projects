@@ -5,4 +5,4 @@ What are you waiting for?
 look at my Projects :P
 
 ---
-LICENSE : MIT LICENSE
+*All projects are shared under [MIT License](LICENSE) unless otherwise stated.*
