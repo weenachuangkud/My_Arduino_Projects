@@ -1,6 +1,5 @@
 # My Arduino Projects
 All little Projects I've made for learning and practice, studying
----
 ## About
 
 Here, I explore microcontrollers, sensors, and circuits using Arduino, ESP32, and other boards  
